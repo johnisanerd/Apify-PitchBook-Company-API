@@ -269,4 +269,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the PitchBook Company API to power your deal sourcing, private-company research, and CRM workflows with reliable, structured results.*
 
-Last Updated: 2026.09.03
+Last Updated: 2026.09.04
